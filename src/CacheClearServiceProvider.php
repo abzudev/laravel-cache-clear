@@ -24,7 +24,5 @@ class CacheClearServiceProvider extends ServiceProvider
      */
     public function register()
     {
-
     }
-
 }
