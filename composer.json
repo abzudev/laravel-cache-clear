@@ -1,0 +1,28 @@
+{
+    "name": "abzudev/laravel-cache-clear",
+    "type": "library",
+    "description": "Cache clearing route for Laravel",
+    "keywords": ["clear cache route", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abzu Development",
+            "email": "jeandrew.swart@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abzudev\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Abzudev\\LaravelCacheClear\\CacheClearServiceProvider"
+            ]
+        }
+    }
+}
