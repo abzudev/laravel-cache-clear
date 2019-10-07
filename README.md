@@ -31,7 +31,7 @@ and check that the route exists.
 
 Example:
 
-![Application route list](https://github.com/abzudev/laravel-cache-clear/screenshots/routelist.jpeg)
+![Application route list](https://github.com/abzudev/laravel-cache-clear/screenshots/routelist.jpg)
 
 ## Usage
 
@@ -42,11 +42,11 @@ Below are screenshots of what is expected with each method:
 
 GET:
 
-![GET request example](https://github.com/abzudev/laravel-cache-clear/screenshots/GET.jpeg)
+![GET request example](https://github.com/abzudev/laravel-cache-clear/screenshots/GET.jpg)
 
 POST:
 
-![POST request example](https://github.com/abzudev/laravel-cache-clear/screenshots/POST.jpeg)
+![POST request example](https://github.com/abzudev/laravel-cache-clear/screenshots/POST.jpg)
 
 ## Testing
 
