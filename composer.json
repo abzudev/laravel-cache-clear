@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Abzudev\\": "src/"
+            "Abzudev\\": "src/",
+            "Abzudev\\LaravelCacheClear\\": "src/"
         }
     },
     "autoload-dev": {

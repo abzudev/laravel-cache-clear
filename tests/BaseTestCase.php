@@ -12,6 +12,13 @@ class BaseTestCase extends TestCase
         parent::setUp();
     }
 
+    protected function getPackageProviders($app)
+    {
+        return [
+            'Abzudev\LaravelCacheClear\CacheClearServiceProvider'
+        ];
+    }
+
     /**
      * @param ApplicationAlias $app
      */
