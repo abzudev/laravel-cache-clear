@@ -24,5 +24,4 @@ class BaseTestCase extends TestCase
             'prefix' => '',
         ]);
     }
-
 }

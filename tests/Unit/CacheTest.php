@@ -61,5 +61,4 @@ class CacheTest extends BaseTestCase
 
         $this->assertNull($cache);
     }
-
 }
