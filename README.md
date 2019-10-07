@@ -8,6 +8,7 @@
 
 This Laravel package adds a GET/POST route which can be used to clear an application's cache.
 
+
 ## Installation
 
 To install this package simply run:
