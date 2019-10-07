@@ -15,7 +15,7 @@ class BaseTestCase extends TestCase
     protected function getPackageProviders($app)
     {
         return [
-            'Abzudev\LaravelCacheClear\CacheClearServiceProvider'
+            'Abzudev\LaravelCacheClear\CacheClearServiceProvider',
         ];
     }
 
