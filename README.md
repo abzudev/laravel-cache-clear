@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/abzudev/laravel-cache-clear/v/stable?format=flat-square)](https://packagist.org/packages/abzudev/laravel-cache-clear)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/abzudev/laravel-cache-clear/master.svg?style=flat-square)](https://travis-ci.org/abzudev/laravel-cache-clear)
-[![StyleCI](https://styleci.io/repos/30915528/shield)](https://styleci.io/repos/30915528)
+[![StyleCI](https://styleci.io/repos/212548340/shield)](https://styleci.io/repos/212548340)
 [![Total Downloads](https://img.shields.io/packagist/dt/abzudev/laravel-cache-clear.svg?style=flat-square)](https://packagist.org/packages/abzudev/laravel-cache-clear)
 
 This Laravel package adds a GET/POST route which can be used to clear an application's cache.
