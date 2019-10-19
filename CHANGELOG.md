@@ -1,3 +1,3 @@
 # Changelog
 
-All notable changes to `laravel-backup` will be documented in this file.
+All notable changes to `laravel-cache-clear` will be documented in this file.
